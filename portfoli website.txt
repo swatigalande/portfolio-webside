@@ -27,7 +27,7 @@ Index. Html
             </nav>
             <div class="header-text">
 
-                <h1>Hi, I'm <span>Fiza Sahar</span></h1>
+                <h1>Hi, I'm <span>Swati Galande</span></h1>
                 <p>Software_Engineer | Web_Developer</p>
 
             </div>
